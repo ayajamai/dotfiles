@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jamaiaya@ymail.com
+	name = ayajamai
